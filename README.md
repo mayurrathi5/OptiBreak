@@ -3,6 +3,9 @@
 OptiBreak is a Python program designed to prevent eye strain caused by prolonged computer use. The program follows the 20-20-20 rule, which suggests that every 20 minutes, users should take a 20-second break and focus on an object 20 feet away. OptiBreak reminds users to take a break after every 20 minutes of computer use. The program runs in the background and does not interfere with other computer tasks.
 
 ## Usage
+Executable: 
+[Linux](https://github.com/mayurrathi5/OptiBreak/releases/download/OptiBreak/Linux-1.0.1.zip), 
+[Windows](https://github.com/mayurrathi5/OptiBreak/releases/download/OptiBreak/Windows-1.0.1.zip)
 
 ### Production Folder
 Contains the executable file that you can execute after the system is turned on depending upon your operating system
@@ -60,6 +63,8 @@ sudo apt install -y alsa-utils libasound2-dev
 sudo apt install -y python3-pyqt5
 pip3 install -r requirement-linux.txt
 ```
+
+### Teammates - Mayur Rathi, Yuvraj Sharma
 
 
 ## Contributing
