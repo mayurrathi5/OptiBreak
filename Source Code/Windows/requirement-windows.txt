@@ -1,0 +1,8 @@
+PyQt5
+PyQt5Designer
+pyinstaller
+pillow
+keyboard
+schedule
+autopep8
+pycaw
